@@ -1,0 +1,540 @@
+{
+    "aimbot": {
+        "aimbotkey": 0,
+        "aimpart": 0,
+        "aimtype": 0,
+        "disableoutoffov": false,
+        "drawfov": false,
+        "enabled": false,
+        "fov": 10,
+        "prediction": false,
+        "predx": 15,
+        "predy": 15,
+        "smoth": 1,
+        "smothx": 1,
+        "smothy": 1,
+        "togglekey": false
+    },
+    "antidown": {
+        "enabled": false,
+        "healththresh": 10.0
+    },
+    "antistomp": {
+        "antistompenabled": false
+    },
+    "antivelocity": {
+        "advanced": false,
+        "enabled": false,
+        "nosleep": false
+    },
+    "esp": {
+        "box": false,
+        "boxfilled": false,
+        "chams": false,
+        "chamsoutline": false,
+        "colors": {
+            "box": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "boxfilled": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "chams": [
+                255.0,
+                255.0,
+                255.0,
+                255.0
+            ],
+            "chamsoutline": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "distance": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "fov": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "fovfilled": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "fovfilledsilent": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "fovsilent": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "healthbar": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "name": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "themecolor": [
+                153.0,
+                66.0,
+                249.0
+            ]
+        },
+        "distance": false,
+        "enabled": false,
+        "font": 0,
+        "fovfilled": false,
+        "health": false,
+        "maxdistance": 1000,
+        "name": false,
+        "playerlist": false,
+        "selfesp": false,
+        "watermark": false,
+        "watermarktype": 0
+    },
+    "forcereset": {
+        "enabled": false,
+        "forceresetkey": 0
+    },
+    "modgun": {
+        "enabled": false
+    },
+    "movement": {
+        "caimbotkey": 0,
+        "cframe": false,
+        "cspeed": 16,
+        "ctogglekey": false,
+        "faimbotkey": 0,
+        "fly": false,
+        "fspeed": 1.0,
+        "ftogglekey": false
+    },
+    "overlay": {
+        "display": true,
+        "enabled": false,
+        "fps": true,
+        "health": true,
+        "hvhoverlay": true,
+        "lastmoddedgun": true,
+        "locationx": 10,
+        "locationz": 10,
+        "playercount": false,
+        "playerupdates": true,
+        "position": true,
+        "showkeybinds": true,
+        "showoptions": true,
+        "transparency": 0.30000001192092896
+    },
+    "rapidfire": {
+        "enabled": false
+    },
+    "restarter": {
+        "triggerkey": 0
+    },
+    "silentaim": {
+        "aimbotkey": 0,
+        "aimpart": 0,
+        "disableoutoffov": false,
+        "drawfov": false,
+        "enabled": false,
+        "filledfov": false,
+        "fov": 10,
+        "prediction": false,
+        "predx": 1,
+        "predy": 1,
+        "togglekey": false
+    },
+    "theme": {
+        "Border": [
+            109,
+            109,
+            127,
+            127
+        ],
+        "BorderShadow": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "Button": [
+            153,
+            66,
+            249,
+            102
+        ],
+        "ButtonActive": [
+            124,
+            15,
+            249,
+            255
+        ],
+        "ButtonHovered": [
+            153,
+            66,
+            249,
+            255
+        ],
+        "CheckMark": [
+            153,
+            66,
+            249,
+            255
+        ],
+        "ChildBg": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "DragDropTarget": [
+            255,
+            255,
+            0,
+            229
+        ],
+        "FrameBg": [
+            48,
+            48,
+            48,
+            137
+        ],
+        "FrameBgActive": [
+            153,
+            66,
+            249,
+            170
+        ],
+        "FrameBgHovered": [
+            153,
+            66,
+            249,
+            102
+        ],
+        "Header": [
+            153,
+            66,
+            249,
+            79
+        ],
+        "HeaderActive": [
+            153,
+            66,
+            249,
+            255
+        ],
+        "HeaderHovered": [
+            153,
+            66,
+            249,
+            204
+        ],
+        "InputTextCursor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "MenuBarBg": [
+            35,
+            35,
+            35,
+            255
+        ],
+        "ModalWindowDimBg": [
+            204,
+            204,
+            204,
+            89
+        ],
+        "NavCursor": [
+            153,
+            66,
+            249,
+            255
+        ],
+        "NavWindowingDimBg": [
+            204,
+            204,
+            204,
+            51
+        ],
+        "NavWindowingHighlight": [
+            255,
+            255,
+            255,
+            178
+        ],
+        "PlotHistogram": [
+            229,
+            178,
+            0,
+            255
+        ],
+        "PlotHistogramHovered": [
+            255,
+            153,
+            0,
+            255
+        ],
+        "PlotLines": [
+            155,
+            155,
+            155,
+            255
+        ],
+        "PlotLinesHovered": [
+            255,
+            109,
+            89,
+            255
+        ],
+        "PopupBg": [
+            20,
+            20,
+            20,
+            239
+        ],
+        "ResizeGrip": [
+            153,
+            66,
+            249,
+            51
+        ],
+        "ResizeGripActive": [
+            153,
+            66,
+            249,
+            242
+        ],
+        "ResizeGripHovered": [
+            153,
+            66,
+            249,
+            170
+        ],
+        "ScrollbarBg": [
+            5,
+            5,
+            5,
+            135
+        ],
+        "ScrollbarGrab": [
+            79,
+            79,
+            79,
+            255
+        ],
+        "ScrollbarGrabActive": [
+            130,
+            130,
+            130,
+            255
+        ],
+        "ScrollbarGrabHovered": [
+            104,
+            104,
+            104,
+            255
+        ],
+        "Separator": [
+            109,
+            109,
+            127,
+            127
+        ],
+        "SeparatorActive": [
+            104,
+            25,
+            191,
+            255
+        ],
+        "SeparatorHovered": [
+            104,
+            25,
+            191,
+            198
+        ],
+        "SliderGrab": [
+            137,
+            61,
+            224,
+            255
+        ],
+        "SliderGrabActive": [
+            153,
+            66,
+            249,
+            255
+        ],
+        "Tab": [
+            94,
+            45,
+            147,
+            219
+        ],
+        "TabDimmed": [
+            28,
+            17,
+            38,
+            247
+        ],
+        "TabDimmedSelected": [
+            68,
+            35,
+            107,
+            255
+        ],
+        "TabDimmedSelectedOverline": [
+            127,
+            127,
+            127,
+            0
+        ],
+        "TabHovered": [
+            153,
+            66,
+            249,
+            204
+        ],
+        "TabSelected": [
+            107,
+            51,
+            173,
+            255
+        ],
+        "TabSelectedOverline": [
+            153,
+            66,
+            249,
+            255
+        ],
+        "TableBorderLight": [
+            58,
+            58,
+            63,
+            255
+        ],
+        "TableBorderStrong": [
+            79,
+            79,
+            89,
+            255
+        ],
+        "TableHeaderBg": [
+            48,
+            48,
+            51,
+            255
+        ],
+        "TableRowBg": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "TableRowBgAlt": [
+            255,
+            255,
+            255,
+            15
+        ],
+        "Text": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "TextDisabled": [
+            127,
+            127,
+            127,
+            255
+        ],
+        "TextLink": [
+            153,
+            66,
+            249,
+            255
+        ],
+        "TextSelectedBg": [
+            135,
+            135,
+            135,
+            114
+        ],
+        "TitleBg": [
+            10,
+            10,
+            10,
+            255
+        ],
+        "TitleBgActive": [
+            79,
+            40,
+            122,
+            255
+        ],
+        "TitleBgCollapsed": [
+            0,
+            0,
+            0,
+            130
+        ],
+        "TreeLines": [
+            109,
+            109,
+            127,
+            127
+        ],
+        "WindowBg": [
+            15,
+            15,
+            15,
+            239
+        ],
+        "WindowShadow": [
+            20,
+            20,
+            20,
+            89
+        ]
+    },
+    "triggerbot": {
+        "antiko": true,
+        "delay": 50,
+        "enabled": false,
+        "range": 15,
+        "togglekey": false,
+        "triggerbotkey": 0
+    },
+    "voidhide": {
+        "autovoid": false,
+        "enabled": false,
+        "enablespam": false,
+        "healththresh": 50,
+        "movevoid": false,
+        "spamsleep": 100,
+        "togglekey": false,
+        "voidhidekey": 0,
+        "writer": 5000
+    }
+}
